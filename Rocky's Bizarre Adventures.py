@@ -15,7 +15,7 @@ icon = pygame.image.load("icon.png")
 pygame.display.set_icon(icon)
 
 # Player (64x64)
-MainCharacter = pygame.image.load("maincharacter.png")
+MainCharacter = pygame.image.load("52414-01.png")
 playerX = 370
 playerY = 480
 playerX_change = 0
